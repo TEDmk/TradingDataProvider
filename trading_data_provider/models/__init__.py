@@ -1,0 +1,2 @@
+from trading_data_provider.models.provider import provider_table
+from trading_data_provider.models.candle import candle_table
